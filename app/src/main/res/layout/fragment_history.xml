@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.edu.zafu.engineercar.fragment.HistoryFragment">
+
+
+    <cn.edu.zafu.engineercar.view.BarView
+        android:id="@+id/history_bar"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"/>
+    <View
+        android:layout_below="@id/history_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#999"
+        ></View>
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<?php
+	echo '[{"endTime":"11:00","studyTime":"2014-1-12","id":"1","startTime":"10:05","flag":true},{"endTime":"12:00","studyTime":"2014-2-8","id":"2","startTime":"9:35","flag":false},{"endTime":"11:10","studyTime":"2014-3-5","id":"3","startTime":"8:35","flag":true},{"endTime":"12:35","studyTime":"2014-4-26","id":"4","startTime":"10:00","flag":true},{"endTime":"12:35","studyTime":"2014-5-13","id":"5","startTime":"9:00","flag":true},{"endTime":"14:35","studyTime":"2014-6-22","id":"6","startTime":"13:00","flag":true},{"endTime":"11:35","studyTime":"2014-7-17","id":"7","startTime":"10:00","flag":true},{"endTime":"10:35","studyTime":"2014-8-23","id":"8","startTime":"8:00","flag":true},{"endTime":"10:35","studyTime":"2014-9-24","id":"9","startTime":"8:30","flag":true},{"endTime":"11:35","studyTime":"2014-10-21","id":"10","startTime":"9:00","flag":true},{"endTime":"10:35","studyTime":"2014-11-13","id":"11","startTime":"8:00","flag":true},{"endTime":"11:35","studyTime":"2014-12-15","id":"12","startTime":"9:00","flag":true}]';
+
+
+?>
